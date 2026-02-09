@@ -2,3 +2,6 @@ S001,tsewang,Math,95
 S001,tsewang,English,88
 S001,tsewang,Math,95
 S002,john,Math,78
+101,tsewang,Math,85
+101,tsewang,Science,90
+101,tsewang,Math,85
